@@ -1,0 +1,22 @@
+{
+  "name": "open-element",
+  "version": "1.0.0",
+  "description": "Crowdsourcing weather data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazim-j/Open-Element.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hazim-j/Open-Element/issues"
+  },
+  "homepage": "https://github.com/hazim-j/Open-Element#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
